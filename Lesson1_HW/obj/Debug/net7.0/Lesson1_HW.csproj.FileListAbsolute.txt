@@ -1,0 +1,15 @@
+/Users/denis.klimovets/Documents/GitHub/hillel/Lesson1_HW/bin/Debug/net7.0/Lesson1_HW
+/Users/denis.klimovets/Documents/GitHub/hillel/Lesson1_HW/bin/Debug/net7.0/Lesson1_HW.deps.json
+/Users/denis.klimovets/Documents/GitHub/hillel/Lesson1_HW/bin/Debug/net7.0/Lesson1_HW.runtimeconfig.json
+/Users/denis.klimovets/Documents/GitHub/hillel/Lesson1_HW/bin/Debug/net7.0/Lesson1_HW.dll
+/Users/denis.klimovets/Documents/GitHub/hillel/Lesson1_HW/bin/Debug/net7.0/Lesson1_HW.pdb
+/Users/denis.klimovets/Documents/GitHub/hillel/Lesson1_HW/obj/Debug/net7.0/Lesson1_HW.csproj.AssemblyReference.cache
+/Users/denis.klimovets/Documents/GitHub/hillel/Lesson1_HW/obj/Debug/net7.0/Lesson1_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denis.klimovets/Documents/GitHub/hillel/Lesson1_HW/obj/Debug/net7.0/Lesson1_HW.AssemblyInfoInputs.cache
+/Users/denis.klimovets/Documents/GitHub/hillel/Lesson1_HW/obj/Debug/net7.0/Lesson1_HW.AssemblyInfo.cs
+/Users/denis.klimovets/Documents/GitHub/hillel/Lesson1_HW/obj/Debug/net7.0/Lesson1_HW.csproj.CoreCompileInputs.cache
+/Users/denis.klimovets/Documents/GitHub/hillel/Lesson1_HW/obj/Debug/net7.0/Lesson1_HW.dll
+/Users/denis.klimovets/Documents/GitHub/hillel/Lesson1_HW/obj/Debug/net7.0/refint/Lesson1_HW.dll
+/Users/denis.klimovets/Documents/GitHub/hillel/Lesson1_HW/obj/Debug/net7.0/Lesson1_HW.pdb
+/Users/denis.klimovets/Documents/GitHub/hillel/Lesson1_HW/obj/Debug/net7.0/Lesson1_HW.genruntimeconfig.cache
+/Users/denis.klimovets/Documents/GitHub/hillel/Lesson1_HW/obj/Debug/net7.0/ref/Lesson1_HW.dll
